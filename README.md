@@ -12,8 +12,8 @@
 	
   </div>
 
-  <div align=center>	
-    👀 Tech Stack 👀
+<div align=center>	
+    🤖 Tech Stack 🤖
 
 </div>
 
@@ -27,11 +27,29 @@
 
   
   </div>
+  <div align=center>	
+ 😎 Hobbies 😎
+
+</div>
+ <div align=center>
+ 
+  
+
+  <img src="https://img.shields.io/badge/WorkOut-000000?style=flat-square&logo=Jordan&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Krump-0B2C4A?style=flat-square&logo=ActiGraph&logoColor=white"/></a>
+
   
   </div>
+
+  
+  </div>
+    <div align=center>	
+    👀 Git 👀
+
+</div>
     <div align=center>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwooIncludeJeong)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwooIncludeJeong&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
   
   </div>
