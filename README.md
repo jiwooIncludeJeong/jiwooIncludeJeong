@@ -20,8 +20,10 @@
  
   
   👀 Interested In: React Native, TypeScript
+-------------
 
   👀 Worked At : @bunkerkids
+-------------
 
   
   </div>
