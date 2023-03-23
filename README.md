@@ -1,5 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&height=150&section=header&text=JiwooJeong🇰🇷&fontSize=50&animation=twinkling&fontColor=ffffff)
+<br/>
+
+<a href=#><img src="contributions.svg"></a>
+
+<br/>
+
 
 <div>
 
