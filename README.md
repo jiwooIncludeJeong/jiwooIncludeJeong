@@ -30,20 +30,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/NextJS-61DAFB?style=flat-square&logo=NextJS&logoColor=white"/></a>
-
-  
-  </div>
-  <div align=center>	
- 😎 Hobbies 😎
-
-</div>
- <div align=center>
- 
-  
-
-  <img src="https://img.shields.io/badge/WorkOut-000000?style=flat-square&logo=Jordan&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Krump-0B2C4A?style=flat-square&logo=ActiGraph&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/NextJS-61DAFB?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
 
   
   </div>
